@@ -1,0 +1,16 @@
+HTML {
+  background-color: rgb(150,150,150);
+  color: rgb(50,50,50);
+  text-align: center;
+  background-image: url("background.png");
+  background-repeat: repeat;
+}
+H3 {
+  font-family: sans-serif;
+}
+p {
+  font-family: sans-serif;
+  color: white;
+  position: absolute;
+  bottom: 0px;
+}
